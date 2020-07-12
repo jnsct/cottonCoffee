@@ -1,0 +1,57 @@
+! special
+*.foreground:   #c8b4b4
+*.background:   #27262d
+*.cursorColor:  #c8b4b4
+
+! black
+*.color0:       #3b3228
+*.color8:       #7e705a
+
+! red
+*.color1:       #cb6077
+*.color9:       #cb697e
+
+! green
+*.color2:       #beb55b
+*.color10:      #287879
+
+! yellow
+*.color3:       #c79750
+*.color11:      #f4bc87
+
+! blue
+*.color4:       #8ab3b5
+*.color12:      #8ab3b5
+
+! magenta
+*.color5:       #a89bb9
+*.color13:      #a89bb9
+
+! cyan
+*.color6:       #7bbda4
+*.color14:      #a672a6
+
+! white
+*.color7:       #d0c8c6
+*.color15:      #c7c1b7
+
+!! Setting transparency and background
+!URxvt*depth:      32
+
+!! URxvt Appearance
+URxvt.font: xft:Droid Sans Mono:style=Regular:pixelsize=18
+URxvt.boldFont:xft:Liberation Mono:style=Bold:pixelsiza=18
+URxvt.italicFont:xft:Liberation Mono:style=Italic:pixelsize=18
+URxvt.boldItalicfont:xft:Liberation Mono:style=Bold Italic:pixelsize=18
+URxvt.letterSpace: -1
+URxvt.lineSpace: 0
+URxvt.geometry: 92x24
+URxvt.internalBorder: 24
+URxvt.cursorBlink: true
+URxvt.cursorUnderline: false
+URxvt.saveline: 2048
+URxvt.scrollBar: false
+URxvt.scrollBar_right: false
+URxvt.urgentOnBell: true
+URxvt.depth: 24
+URxvt.iso14755: true
